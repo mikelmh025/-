@@ -1,0 +1,59 @@
+
+#maindiv div.textblob {
+    background-color: #cccccc;
+    margin: 50px;
+    padding: 3px;
+    border: 2px solid #85144b;
+    font-size: 120%;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+div.banner{
+    background:#06355A;
+
+}
+
+img.icon{
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-bottom: 20px
+}
+
+div.polarBear{
+    font-style: italic;
+    margin: 5px;
+}
+
+
+#date {
+    color:white;
+    font-size: 40px;
+    margin-top: 130px;
+    padding-right: 50px;
+}
+
+div.button{
+    padding: 20px;
+    font-size: 30px;
+    height: 70px;
+    color:white;
+}
+
+div.mainDiv{
+    margin: 50px;
+    margin-top: 0px;
+}
+
+div.title{
+    font-weight: bold
+}
+div.disabled {
+    color: #777777;
+}
+
+div.ad{
+    background: #D5D4D4;
+    border-width: 3px;
+    border-style: solid;
+}
